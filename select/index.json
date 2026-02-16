@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "主人公になろう! (instrumental)",
+  "base_artist": "オーイシマサヨシ",
+  "createdAt": "2026-02-16T03:10:05.346805Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "主人公になろう! feat.鈴木愛理",
+      "artist": "オーイシマサヨシ",
+      "has_synced": false,
+      "path": "select/pl_01_主人公になろう!_feat.鈴木愛理_オーイシマサヨシ.txt"
+    }
+  ]
+}
